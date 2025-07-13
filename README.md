@@ -1,6 +1,7 @@
 # anysongnightcore
 A Simple minimal program created in python that helps to add cover arts and convert the audio file you have into NightCore, 
-Note : Use the songs and files under your own risk , any songs or music is not provided and We Do not condone PIRACY
+
+Note : Use the songs and files under your own risk , any songs or music are not  and I Do not condone PIRACY.
 🎵 One-Click Nightcore Converter
 Transform any song into Nightcore instantly - just download and run! No installation or technical skills needed. Perfect for anime fans and music creators.
 
